@@ -1,0 +1,31 @@
+body,html{
+    height: 100% ;
+    margin:0;
+}
+.bg {
+    background-image: url ("img/Avião Layout ViajaKi.jpg");
+}
+
+h2 {
+    .O Mundo ao seu Alcance background-color: orangered;
+  }
+
+  {
+    padding: 10px 8px;
+    width: 50px;
+    color: orange;
+    background:209915;
+    border:1px solid: 555;
+    border: radius:5px;
+    text-allingh:center;
+    user-select:none;
+    cursor:pointer;
+
+
+
+  }
+  
+    .btn:houver{
+        background: 209919;
+    }
+  
